@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/poe1993/.dotnet/store/|arch|/|tfm|",
+      "/Users/poe1993/.nuget/packages"
+    ]
+  }
+}

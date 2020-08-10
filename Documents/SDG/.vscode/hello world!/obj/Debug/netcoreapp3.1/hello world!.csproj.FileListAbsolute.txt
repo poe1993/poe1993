@@ -1,0 +1,12 @@
+/Users/poe1993/Documents/SDG/.vscode/hello world!/bin/Debug/netcoreapp3.1/hello world!.deps.json
+/Users/poe1993/Documents/SDG/.vscode/hello world!/bin/Debug/netcoreapp3.1/hello world!.runtimeconfig.json
+/Users/poe1993/Documents/SDG/.vscode/hello world!/bin/Debug/netcoreapp3.1/hello world!.runtimeconfig.dev.json
+/Users/poe1993/Documents/SDG/.vscode/hello world!/bin/Debug/netcoreapp3.1/hello world!.dll
+/Users/poe1993/Documents/SDG/.vscode/hello world!/bin/Debug/netcoreapp3.1/hello world!.pdb
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.csprojAssemblyReference.cache
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.AssemblyInfoInputs.cache
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.AssemblyInfo.cs
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.csproj.CoreCompileInputs.cache
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.dll
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.pdb
+/Users/poe1993/Documents/SDG/.vscode/hello world!/obj/Debug/netcoreapp3.1/hello world!.genruntimeconfig.cache
